@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/0xSirawit/HWTracker/static/css/main.f46c6a48.css",
+    "main.js": "/0xSirawit/HWTracker/static/js/main.b24a1001.js",
+    "index.html": "/0xSirawit/HWTracker/index.html",
+    "main.f46c6a48.css.map": "/0xSirawit/HWTracker/static/css/main.f46c6a48.css.map",
+    "main.b24a1001.js.map": "/0xSirawit/HWTracker/static/js/main.b24a1001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f46c6a48.css",
+    "static/js/main.b24a1001.js"
+  ]
+}
